@@ -1,3 +1,5 @@
+package com.company;
+
 public class prc8 {
     public static void main(String[] args) {
         WaitList<Integer> wl1 = new WaitList<>();
